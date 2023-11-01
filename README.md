@@ -16,6 +16,9 @@ Attrition by Salary Slab : showcasing attrition rates categorized by salary rang
 
 Attrition by Years at Company : providing insights into attrition rates categorized by the duration of employees' tenure at the company.
 
+![HR](https://github.com/Hajira20/Power-BI---HR-Analytics-Dashboard/assets/15829565/0d807f83-136a-4c0f-a057-130f5e0c9351)
+
+
 Insights:
 
 Gained valuable insights into the factors influencing attrition rates within our organization
